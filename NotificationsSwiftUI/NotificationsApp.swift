@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct NotificationsSwiftUIApp: App {
+struct NotificationsApp: App {
     var body: some Scene {
         WindowGroup {
             NotificationsView()
